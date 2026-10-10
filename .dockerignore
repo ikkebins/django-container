@@ -1,0 +1,11 @@
+*
+!.dockerignore
+!Dockerfile
+!requirements.txt
+!entrypoint.sh
+!placeholder.py
+!.env.example
+!compose.yaml
+!README.md
+!k8s/
+!openshift/
